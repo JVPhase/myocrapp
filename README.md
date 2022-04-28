@@ -1,0 +1,2 @@
+# myocrapp
+My OCR application
